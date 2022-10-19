@@ -1,7 +1,6 @@
 <h1 align="left">✨ About me ✨ </h1>
 
 - ✧ Name ✧ : Hà Vĩnh Kiện
-- ✧ School ✧ : University of Information Technology - Vietnam National University (UIT) &ensp; <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" alt="UIT" height="30" width="30" /></a> 
 - ✧ School ✧ : University of Information Technology - Vietnam National University (UIT) &ensp; <a href="https://www.uit.edu.vn/" target="blank"><img align="center" src="https://tuoitre.uit.edu.vn/wp-content/uploads/2015/07/logo-uit.png" alt="UIT" height="30" width="40" /></a> 
 - ✧ Major ✧ : Computer Engineering (Embedded Systems and IoT) &ensp; <a href="https://fce.uit.edu.vn/" target="blank"><img align="center" src="https://fce.uit.edu.vn/wp-content/uploads/2022/07/LOGO-CE-stroke-v2-150x150.png" alt="UIT" height="30" width="30" /></a> 
 
