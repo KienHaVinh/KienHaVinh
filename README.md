@@ -10,7 +10,6 @@
 &ensp;<img src="https://camo.githubusercontent.com/891c1fd9d2ab2adf1053e8514f469b94049769ccd9d2765c8e06e9c1b6da1b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465" alt="cplusplus" width="71.75" height="28"/> 
 &ensp;<img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo.png" alt="java" width="90" height="28"/> 
 &ensp;<img src="https://i.imgur.com/HmYbucD.png" alt="python" width="100" height="28"/> </a>
-&ensp;<img src="https://repository-images.githubusercontent.com/246612662/7e883780-63dd-11ea-9608-f6398726f9f4" alt="rust" width="80" height="28"/>
 &ensp;<img src="https://i.imgur.com/qowMmy4.png" alt="ruby" width="90" height="28"/> 
 &ensp;<img src="https://i.imgur.com/kdbNnhJ.png" alt="assembly" width="120" height="28"/> 
   
